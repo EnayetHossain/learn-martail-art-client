@@ -1,0 +1,10 @@
+.payment-container {
+    color: rgb(var(--primary-color));
+    width: 100%;
+}
+
+.payment-container>h1 {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+}

@@ -1,0 +1,10 @@
+.instructors-section {
+    background-color: rgb(var(--secondary-color));
+    padding: 8em 0;
+}
+
+.instructors-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(25em, 100%), 1fr));
+    gap: 3em;
+}

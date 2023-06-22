@@ -1,0 +1,28 @@
+.not-found {
+    background-color: #F7F9FB;
+}
+
+.not-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("/404.gif");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.home {
+    font-size: 1.6rem;
+    background-color: rgb(var(--secondary-color));
+    color: rgb(var(--primary-color));
+    font-weight: bold;
+    padding: 0.5em;
+    border-radius: 0.3em;
+}
+
+.home:hover {
+    background-color: rgba(var(--secondary-color), 0.8);
+}

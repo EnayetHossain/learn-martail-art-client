@@ -1,0 +1,59 @@
+.classes-card {
+    background-color: rgb(var(--secondary-800));
+    border-radius: 0.7em;
+    overflow: hidden;
+    box-shadow: -1px 0px 10px rgba(var(--secondary-color), 0.1);
+    position: relative;
+}
+
+.disable {
+    background-color: brown !important;
+}
+
+.classes-img {
+    width: 100%;
+    height: 30em;
+    overflow: hidden;
+}
+
+.classes-info,
+.seats-price,
+.add-btn {
+    padding: 1em;
+    color: rgb(var(--primary-color));
+}
+
+.classes-name {
+    font-size: 2rem;
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+.classes-instructor {
+    font-size: 1.6rem;
+    margin-top: 1.4em;
+}
+
+.seats-price {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+    padding-bottom: 4em;
+}
+
+.price {
+    font-weight: 600;
+    color: rgb(var(--accent-color));
+}
+
+.add-btn {
+    background-color: rgb(var(--accent-color));
+    width: 100%;
+    color: rgb(var(--secondary-color));
+    font-size: 1.6rem;
+    padding: 0.3em 0;
+    font-weight: 600;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

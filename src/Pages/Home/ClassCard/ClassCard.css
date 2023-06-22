@@ -1,0 +1,39 @@
+.class-card {
+    background-color: rgb(var(--secondary-color));
+    padding-bottom: 1em;
+    border-radius: 0.5em;
+    overflow: hidden;
+    box-shadow: -1px 0px 10px rgba(var(--secondary-color), 0.1);
+}
+
+.class-img {
+    width: 100%;
+    height: 20em;
+    overflow: hidden;
+}
+
+.class-img>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.class-name {
+    color: rgb(var(--primary-800));
+    padding: 1em 0.5em;
+    font-size: 1.4rem;
+}
+
+.price-seats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1em 0.5em;
+    font-size: 1.6rem;
+}
+
+.price-seats>.price,
+.price-seats>.seats {
+    color: rgb(var(--primary-800));
+}

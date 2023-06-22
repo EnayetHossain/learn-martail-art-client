@@ -1,0 +1,25 @@
+.instructors-card {
+    background-color: rgb(var(--secondary-800));
+    border-radius: 0.7em;
+    overflow: hidden;
+    box-shadow: -1px 0px 10px rgba(var(--secondary-color), 0.1);
+}
+
+.instructors-img {
+    width: 100%;
+    height: 30em;
+    overflow: hidden;
+}
+
+.instructors-info {
+    padding: 1em;
+    color: rgb(var(--primary-color));
+}
+
+.instructors-name {
+    font-size: 2rem;
+}
+
+.instructors-email {
+    font-size: 1.4rem;
+}

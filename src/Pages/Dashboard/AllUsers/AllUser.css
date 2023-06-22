@@ -1,0 +1,8 @@
+.instructor-btn {
+    background-color: rgb(var(--accent-color)) !important;
+    color: rgb(var(--secondary-color))
+}
+
+.admin-btn {
+    background-color: rgb(60, 60, 221) !important;
+}

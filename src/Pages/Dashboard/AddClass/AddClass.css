@@ -1,0 +1,7 @@
+.add-class-section {
+    width: 100%;
+}
+
+.add-class {
+    width: min(35em, 100%);
+}

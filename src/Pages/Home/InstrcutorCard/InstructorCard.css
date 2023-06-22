@@ -1,0 +1,18 @@
+.instructor-card {
+    background-color: rgb(var(--secondary-color));
+    border-radius: 0.5em;
+    overflow: hidden;
+    box-shadow: -1px 0px 10px rgba(var(--secondary-color), 0.1);
+}
+
+.instructor-img {
+    width: 100%;
+    height: 40em;
+    overflow: hidden;
+}
+
+.instructor-img>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

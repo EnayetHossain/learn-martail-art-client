@@ -1,0 +1,82 @@
+[
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Fern Tran",
+    "class_name": "veniam aute sunt proident adipisicing velit tempor exercitation",
+    "seats": 25,
+    "students": 4,
+    "price": 18
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Holman Caldwell",
+    "class_name": "exercitation laboris minim reprehenderit incididunt quis nostrud minim",
+    "seats": 30,
+    "students": 5,
+    "price": 18
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Vinson Pratt",
+    "class_name": "excepteur elit et occaecat mollit dolore amet tempor",
+    "seats": 25,
+    "students": 10,
+    "price": 22
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Terra Reeves",
+    "class_name": "velit minim aliqua aliqua qui irure ullamco minim",
+    "seats": 35,
+    "students": 10,
+    "price": 53
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Myra Brock",
+    "class_name": "voluptate sint minim laborum Lorem ea occaecat velit",
+    "seats": 25,
+    "students": 13,
+    "price": 14
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Jan Rowe",
+    "class_name": "deserunt occaecat laboris elit pariatur fugiat ullamco dolore",
+    "seats": 25,
+    "students": 8,
+    "price": 15
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Addie Houston",
+    "class_name": "consectetur minim quis non aliquip fugiat fugiat aliquip",
+    "seats": 15,
+    "students": 10,
+    "price": 35
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Nita Hayden",
+    "class_name": "nulla laboris nostrud est excepteur incididunt mollit sint",
+    "seats": 35,
+    "students": 10,
+    "price": 15
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Karen Griffith",
+    "class_name": "ex Lorem quis magna nulla occaecat fugiat exercitation",
+    "seats": 65,
+    "students": 10,
+    "price": 54
+  },
+  {
+    "picture": "https://static-01.daraz.com.bd/p/b4016f52b5e18083810b57aaf879f3a3.jpg_720x720.jpg_.webp",
+    "Instructor_name": "Lyons West",
+    "class_name": "elit minim commodo qui eiusmod veniam ex excepteur",
+    "seats": 43,
+    "students": 4,
+    "price": 22
+  }
+]

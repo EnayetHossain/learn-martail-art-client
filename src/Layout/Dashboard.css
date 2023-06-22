@@ -1,0 +1,18 @@
+.dashboard-menu-btn::after {
+    content: "" !important;
+}
+
+.drawer-content {
+    background-color: rgb(var(--secondary-color));
+    color: rgb(var(--secondary-color));
+}
+
+.drawer-side li {
+    margin: 0.5em 0;
+}
+
+.drawer-side a {
+    padding: 0.5em;
+    font-size: 1.6rem;
+    color: rgb(var(--primary-color));
+}
